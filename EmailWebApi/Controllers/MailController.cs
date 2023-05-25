@@ -23,7 +23,7 @@ namespace EmailWebApi.Controllers
             }
             catch (Exception ex)
             {
-                throw;
+                throw ex;
             }
 
         }
@@ -39,7 +39,7 @@ namespace EmailWebApi.Controllers
             catch (Exception ex)
             {
 
-                throw;
+                throw ex;
             }
 
         }
