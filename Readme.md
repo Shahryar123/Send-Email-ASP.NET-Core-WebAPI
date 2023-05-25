@@ -14,7 +14,7 @@ App passwords can only be used with accounts that have 2-Step Verification turne
 
 User can set App Password from Google settings
 
-**Customize Html Template Page
+**Customize Html Template Page**
 
 In Templates//WelcomeTemplate.html.
 
